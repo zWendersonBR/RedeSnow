@@ -1,0 +1,23 @@
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\bin\Release\net10.0-windows\RedeSnow - Manager.exe
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\bin\Release\net10.0-windows\RedeSnow - Manager.deps.json
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\bin\Release\net10.0-windows\RedeSnow - Manager.runtimeconfig.json
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\bin\Release\net10.0-windows\RedeSnow - Manager.dll
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\bin\Release\net10.0-windows\RedeSnow - Manager.pdb
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\bin\Release\net10.0-windows\Guna.UI2.dll
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\bin\Release\net10.0-windows\System.Management.dll
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\bin\Release\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.csproj.AssemblyReference.cache
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow___Manager.Form1.resources
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow___Manager.FormSelecao.resources
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow___Manager.Properties.Resources.resources
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.csproj.GenerateResource.cache
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.AssemblyInfoInputs.cache
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.AssemblyInfo.cs
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.csproj.CoreCompileInputs.cache
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow.B6A607C0.Up2Date
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.dll
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\refint\RedeSnow - Manager.dll
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.pdb
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\RedeSnow - Manager.genruntimeconfig.cache
+C:\Users\wenderson.dias\source\repos\RedeSnow - Manager\RedeSnow - Manager\obj\Release\net10.0-windows\ref\RedeSnow - Manager.dll

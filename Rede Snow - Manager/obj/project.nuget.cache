@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayGE8ItV61g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wenderson.dias\\source\\repos\\RedeSnow - Manager\\RedeSnow - Manager\\RedeSnow - Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wenderson.dias\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\wenderson.dias\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

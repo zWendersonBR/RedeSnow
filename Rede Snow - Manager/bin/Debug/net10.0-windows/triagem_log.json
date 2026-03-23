@@ -1,0 +1,26 @@
+[
+  {
+    "Identificador": "ZTEGD98C4D53",
+    "DataHora": "23/03/2026 09:00",
+    "Categoria": "NORMAL",
+    "DefeitosBrutos": [
+      "N2|EQUIPAMENTO TESTADO E FUNCIONANDO"
+    ]
+  },
+  {
+    "Identificador": "ZTEGD8D4237F",
+    "DataHora": "23/03/2026 09:00",
+    "Categoria": "NORMAL",
+    "DefeitosBrutos": [
+      "N2|EQUIPAMENTO TESTADO E FUNCIONANDO"
+    ]
+  },
+  {
+    "Identificador": "ZTEGC4B2D19C",
+    "DataHora": "23/03/2026 09:00",
+    "Categoria": "DIVERSOS",
+    "DefeitosBrutos": [
+      "D10|EQUIPAMENTO TRAVADO"
+    ]
+  }
+]
